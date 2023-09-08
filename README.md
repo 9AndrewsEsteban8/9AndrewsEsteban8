@@ -8,8 +8,3 @@
 💂Mi experiencia como Guardián me ha generado una experiencia de 4 años en habilidades de compromiso y el trabajo en equipo. 
 
 🤝De esta manera, logro proporcionar soluciones digitales de alta calidad en conjunto con colegas de diferentes áreas de especialización.
-
-
-https://badgen.net/
-static/Andrews/Portafolio/orange
-
