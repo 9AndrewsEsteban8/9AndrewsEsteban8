@@ -94,11 +94,12 @@
 <img src="https://img.shields.io/badge/gmail:  andrewsesteban7-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+<br>
 
 <li>
-<a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
- src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
- alt="azzar" height="30"/></a>
+<a href="https://torre.ai/andrewsesteban" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Perfil%20de%20Torre%20-000000?style=for-the-badge" alt="perfiltorreandrews" height="30"/>
+</a>
 </li>
 	
 </ul>
