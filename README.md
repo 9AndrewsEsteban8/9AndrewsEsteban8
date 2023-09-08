@@ -98,7 +98,7 @@
 
 <li>
 <a href="https://torre.ai/andrewsesteban" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Perfil%20de%20Torre%20-000000?style=for-the-badge" alt="perfiltorreandrews" height="30"/>
+  <img align="center" src="https://img.shields.io/badge/Usuario%20de%20Torre%20:andrewsesteban-000000?style=for-the-badge" alt="perfiltorreandrews" height="30"/>
 </a>
 </li>
 	
