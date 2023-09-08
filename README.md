@@ -96,7 +96,9 @@
 </li>
 
 <li>
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
+ src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+ alt="azzar" height="30"/></a>
 </li>
 	
 </ul>
