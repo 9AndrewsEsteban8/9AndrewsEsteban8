@@ -6,11 +6,21 @@
 
 
 <br>
+<div align="center">
+<h2 align="center" style="color: red;">Mi portafolio</h2>
+
+<a href="https://miportafolio-seven.vercel.app/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/DALE%20CLICK%20AQUI-3F48CC?style=for-the-badge" alt="perfiltorreandrews" height="30"/>
+</a>
+
+</div>
+<br>
 
 
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+
 
 
 <br>
@@ -97,9 +107,15 @@
 <br>
 
 <li>
-<a href="https://torre.ai/andrewsesteban" target="blank">
+<a href="https://torre.ai/s/AeWHAstGtr" target="blank">
   <img align="center" src="https://img.shields.io/badge/Usuario%20de%20Torre%20:andrewsesteban-000000?style=for-the-badge" alt="perfiltorreandrews" height="30"/>
 </a>
+</li>
+<br>
+<li>
+<a href="https://wa.me/+573134020890" target="blank"><img align="center"
+src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+alt="azzar" height="30"/></a>
 </li>
 	
 </ul>
